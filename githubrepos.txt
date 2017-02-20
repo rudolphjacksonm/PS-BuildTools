@@ -1,0 +1,2 @@
+# Text file that should contain the urls for required repositories.
+[username]/[repository].git
